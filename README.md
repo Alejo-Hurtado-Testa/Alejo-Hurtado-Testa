@@ -7,7 +7,7 @@
 
 - 👯 Freelance work [Suburbio Club](https://suburbioclub.netlify.app/)
 
-- 📝 I regularly upload proyects on [https://alejo-hurtado-testa.github.io/Portfolio/index.html](https://alejo-hurtado-testa.github.io/Portfolio/index.html)
+- 📝 I regularly upload proyects on [https://alejo-hurtado-testa.github.io/Portfolio/index.html](https://alejohurtadotesta.netlify.app)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, SASS, Bootstrap**
 
