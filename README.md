@@ -7,24 +7,6 @@
 
 - 👯 Freelance work [Suburbio Club](https://suburbioclub.netlify.app/)
 
-- 📝 I regularly upload proyects on [https://alejo-hurtado-testa.github.io/Portfolio/index.html](https://alejohurtadotesta.netlify.app)
-
-- 💬 Ask me about **React, JavaScript, HTML, CSS, SASS, Bootstrap**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Alejo-Hurtado-Testa?tab=repositories](https://github.com/Alejo-Hurtado-Testa?tab=repositories)
-
-- ⚡ Fun fact **I like play videogames, listen music and hang out with friends**
-
-<h3 align="left">Connect with me:</h3>
-<h1 align="center">Hi 👋, I'm Alejo Hurtado Testa</h1>
-<h3 align="center">A passionate frontend developer from Argentina. Currently I study and forming me in Full-Stack Developer.</h3>
-
-- 🔭 Front-End ReactJS work [Luxor Store](https://luxorstore.netlify.app/)
-
-- 🌱 I’m currently learning **TypeScript, Angular, Java, PHP, MongoDB, MySQL and Springboot**
-
-- 👯 Freelance work [Suburbio Club](https://suburbioclub.netlify.app/)
-
 - 📝 I regularly upload proyects on [https://alejohurtadotesta.netlify.app](https://alejohurtadotesta.netlify.app)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, SASS, Bootstrap**
@@ -46,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejo-hurtado-testa&show_icons=true&theme=radical&locale=en" alt="alejo-hurtado-testa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejo-hurtado-testa&theme=dark" alt="alejo-hurtado-testa" /></p>
+
 
 
 
