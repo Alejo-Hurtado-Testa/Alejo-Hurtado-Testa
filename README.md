@@ -27,7 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejo-hurtado-testa&show_icons=true&theme=radical&locale=en" alt="alejo-hurtado-testa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejo-hurtado-testa&theme=dark" alt="alejo-hurtado-testa" /></p>
 
 
 
